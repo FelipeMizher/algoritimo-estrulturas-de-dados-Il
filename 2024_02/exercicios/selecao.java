@@ -1,6 +1,6 @@
 import java.util.*;
 
-class ex1{
+class selecao{
     public static void swap(int[] array, int i, int j){
         int temp = array[i];
         array[i] = array[j];
